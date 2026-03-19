@@ -31,7 +31,7 @@ Aprender a construir um site de e-commerce com HTML, CSS e JavaScript, aplicando
 ## 🌐 Acessar o Projeto
 
 
-(https://emersonedson07.github.io/loja-virtual/)
+➡️ [Acessar projeto online no GitHub Pages](https://emersonedson07.github.io/loja-virtual/)
 
 ---
 
